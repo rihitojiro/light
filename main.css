@@ -1,0 +1,47 @@
+html {
+    width: 1200px;
+    font-size: 62.5%;
+      
+    box-sizing: border-box;
+
+}
+.light{
+    text-align: center;
+    transform: rotate(180deg);
+    font-size: 30rem ;
+}
+
+   
+    
+
+.line{
+    margin: 0 auto;
+    background-color: black;
+    width: 5px;
+    height: 150px;
+}
+   
+
+
+.button{
+    position: relative;
+    left: 100px;
+    text-align: center;
+    line-height: 76px;
+    color: #fff;
+    width: 76px;
+    height: 76px;
+    font-size: 3rem;
+    border-radius: 50%;
+    background-color: black;
+    
+
+    
+    
+     
+    
+    
+    
+    
+
+}
